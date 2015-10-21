@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Important.txt = Important.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{42EA03AF-4291-4AEC-972F-6960B69965FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{C4720AEF-3993-47BE-B4B4-200A4ABD605D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4720AEF-3993-47BE-B4B4-200A4ABD605D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4720AEF-3993-47BE-B4B4-200A4ABD605D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EA03AF-4291-4AEC-972F-6960B69965FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EA03AF-4291-4AEC-972F-6960B69965FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EA03AF-4291-4AEC-972F-6960B69965FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EA03AF-4291-4AEC-972F-6960B69965FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
