@@ -62,9 +62,13 @@
     <Compile Include="OOPS\NestedClasses.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OOPS\Threading.cs" />
-    <Compile Include="Helpers.cs" />
+    <Compile Include="Sorting\AbstractSort.cs" />
+    <Compile Include="Sorting\Helpers.cs" />
     <Compile Include="Sorting\NonRecursiveSorting.cs" />
     <Compile Include="Sorting\SortingTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Sorting\NonRecursive\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
